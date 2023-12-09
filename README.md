@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Amier
+
+# Web Developer
+
+- 🌱 I’m currently learning Javascript/Typescript and React.
 
 <!--
 **amier98/amier98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
